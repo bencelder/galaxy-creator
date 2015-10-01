@@ -1,0 +1,5 @@
+Real-time n-body simulator (or SPH)
+
+Cursor acts like a brush that puts down lots of particles
+
+After brushing in a galaxy, compute required rotational speed etc
